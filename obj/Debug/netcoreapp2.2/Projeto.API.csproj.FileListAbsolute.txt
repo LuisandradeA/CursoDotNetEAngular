@@ -1,0 +1,14 @@
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.csprojAssemblyReference.cache
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.RazorAssemblyInfo.cache
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.RazorAssemblyInfo.cs
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.AssemblyInfoInputs.cache
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.AssemblyInfo.cs
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/bin/Debug/netcoreapp2.2/Projeto.API.deps.json
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/bin/Debug/netcoreapp2.2/Projeto.API.runtimeconfig.json
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/bin/Debug/netcoreapp2.2/Projeto.API.runtimeconfig.dev.json
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/bin/Debug/netcoreapp2.2/Projeto.API.dll
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/bin/Debug/netcoreapp2.2/Projeto.API.pdb
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.RazorTargetAssemblyInfo.cache
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.dll
+/home/luis/Documentos/CursoDotnetCore/Projeto.API/obj/Debug/netcoreapp2.2/Projeto.API.pdb
